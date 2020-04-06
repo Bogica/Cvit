@@ -1,0 +1,319 @@
+[discover]
+other = "Discover Croatia"
+
+[homeMainTitle1]
+other = "Your Travel Destinations like never before"
+
+[homeSubTitle1]
+other = "Explore amazing parts of our country, experience a different culture and adventure of a lifetime; all with a group of new friends!"
+
+[homeMainTitle2]
+other = "Days you won't forget"
+
+[homeSubTitle2]
+other = "Planned to visit Croatia? Great! Let us take care of accommodation, breakfast and tour organization for you."
+
+[sub1]
+other = "Fast & reliable"
+
+[titleServices]
+other = "Our services"
+
+[subtitleServices]
+other = "We offer amazing tours planned for you from first to last day. So put your mind at ease and enjoy your vacation days!"
+
+[activity]
+other="Activities"
+
+[activities]
+other = "We are all about exploring incredible parts of Croatia, experiencing new culture and making lifelong memories. Whether you’re travelling by yourself or with others, you’re guaranteed fun & adventure."
+
+[travelArrangement]
+other = "Travel arrangement"
+
+[arrangement]
+other = "We arrange everything for you so your trip will be fun and hassle-free! You just need to contact us and write which tour would you like to participate in and we will send you all the details you need to know."
+
+[privateGuide]
+other="Private guide"
+
+[guide]
+other="Our guides are experienced in hosting group tours throughout the country that reflect the history, culture, beauty and taste of Croatia for you to enjoy and experience."
+
+[locationManager]
+other="Destinations"
+
+[manager]
+other="As locals and insiders, we know the best spots, the most sought after attractions. You will have the opportunity to visit the most beautiful hills, sanctuary, restaurants and parts of the Adriatic coast."
+
+[getintouch]
+other="Get in touch with us"
+
+[aboutTitle]
+other="Cvit Travel Agency"
+
+[aboutus]
+other ="We are specialized in hosting group tours throughout the Croatia and it's region."
+
+[selectTour]
+other="All tours"
+
+[book]
+other="Book"
+
+[bestDestinationsSub]
+other="Best destinations"
+
+[bestDestinationsTitle]
+other="Best Place to Travel"
+
+[meetTheTeamSub]
+other="Meet the team"
+
+[meetTheTeamTitle]
+other="Who are we"
+
+[homeTitle]
+other = "Obiđi svit, uberi cvit"
+
+[homeSubtitle]
+other = "Otkrij ljepote Hrvatske"
+
+[readMore]
+other = "Read more"
+
+[about]
+other = "About us"
+
+[tours]
+other = "Tours"
+
+[blog]
+other = "Blog"
+
+[home]
+other = "Home"
+
+[contact]
+other = "Contact"
+
+[services]
+other = "Services"
+
+
+[kruznaTura]
+other = "Circle tour"
+
+[klasicnaTura]
+other = "Classic tour"
+
+[planinarenjeTura]
+other = "Climbing trough Dalmatia"
+
+[pjesacenjeTura]
+other = "Walking through Dalmatia"
+
+[hodocasceTura]
+other = "Međugorje Pilgrimage"
+
+[jeloTura]
+other = "Croatia vining and dining"
+
+
+
+
+[petra]
+other = "Petra Lozančić"
+
+[andela]
+other = "Anđela Nosić"
+
+[silvana]
+other = "Silvana Nosić"
+
+[ante]
+other = "Ante Nosić"
+
+[agneta]
+other = "Agneta Buren - Lučić"
+
+[ulogaPetra]
+other = "Founder and CEO"
+
+[ulogaAnte]
+other = "Co-founder and Finance manager"
+
+[ulogaAgneta]
+other = "Travel coordinator and consultant"
+
+[ulogaAndela]
+other = "Marketing / PR manager"
+
+[ulogaSilvana]
+other = "Travel production manager"
+
+
+[opisPetra]
+other =  "Petra is the initiator of everything in the family whether it iss gatherings and trips or the agency itself. When she is not motivating us she is doing just that with kids in the football academy and she spends her free time either travelling or planning future trips."
+
+[uzrPetra]
+other = "„Not all those who wonder are lost.“ – J.R.R. Tolkien"
+
+[opisAnte]
+other = "As every middle child Ante has always had an adventourus spirit. When he is not entertaining us or making us laugh he works as an oil engineer and a drilling supervisor. On the days that he is home he actually spends the least time – at home."
+
+[uzrAnte]
+other = "„Travel is never a matter of money but of courage.“"
+
+[opisSilvana]
+other = "Silvana is a Croat born in Sweden and she has experience leading larger and smaller groups and travels for twenty years but she will always say that the hardest to lead are her three children. When she is not working and taking care of everything around her you will most likely find her with her nose in a book or trying to stay awake watching a TV show after a long day."
+
+[uzrSilvana]
+other = "„Never travel faster than your guardian angel can fly.“ – Mother Theresa"
+
+[opisAndela]
+other = "The youngest and everyones favourite team member is Anđa (beside our fourlegged Tom). Pharmacy student with a knack for plants and photography and a combination of the two has grown to love travelling from young age travelling with Silvana wherever she would agree to take her."
+
+[uzrAndela]
+other = "„Happiness can be found even in the darkest of times if one only remembers to turn on the light.“ – J.K. Rowling"
+
+[opisAgneta]
+other = "Agneta is a Swede by birth and a Croat by heart. She has been working in tourism for almost fifteen years organizing and leading many trips. In her free time when she is not animating groups of tourists she does that with her grandkids."
+
+[uzrAgneta]
+other = "„The world is a book and those who do not travel read only one page.“ Saint Augustine" 
+
+
+[contactus]
+other = "Contact us"
+
+[name]
+other = "Your name"
+
+[email]
+other = "Your email"
+
+[message]
+other = "Message"
+
+[send]
+other = "Send"
+
+[addresssub]
+other = "Address"
+
+[address]
+other = "Koju adresu?"
+
+[contactnumber]
+other = "Contact Number"
+
+[emailaddressub]
+other = "Email Address"
+
+[emailaddress]
+other = "petra0017@hotmail.com"
+
+[website]
+other = "Website"
+
+[information]
+other = "Information"
+
+[onlineenquiry]
+other = "Online Enquiry"
+
+[booking]
+other = "Booking"
+
+[privacy]
+other = "Privacy"
+
+[callus]
+other = "Call Us"
+
+[experience]
+other = "Experience"
+
+[haveaquestion]
+other = "Have a Questions?"
+
+[adventure]
+other = "Adventure"
+
+[hotelandrestaurant]
+other = "Hotel and Restaurant"
+
+[beach]
+other = "Beach"
+
+[nature]
+other = "Nature"
+
+[priprema]
+other = "Get ready"
+
+[zaStoSeSpremiti]
+other = "What should I be prepared for?"
+
+[howitworks]
+other = "How it works"
+
+[vasaTura]
+other = "Tour"
+
+[korak1]
+other = "Step 1"
+
+[korak2]
+other = "Step 2"
+
+[korak3]
+other = "Step 3"
+
+[rezerviraj]
+other = "BOOK YOUR TOUR"
+
+[procitaj]
+other = "READ ALL ABOUT IT"
+
+[opustiSe]
+other = "RELAX"
+
+[objasnjenje1]
+other = "Choose your tour and dates and let us know. We’ll send you the exact address of your accomodation upon booking."
+
+[objasnjenje2]
+other = "You’ll get an confirmation email. Download your tour guide and read about what awaits you. Our team will be available by email and text if  you would need anything."
+
+[objasnjenje3]
+other = "Put away your phone and share your day with loved ones. Enjoy nature. You will have everything you need to truly relax."
+
+
+[klasicnaTuraOpis]
+other = "Things are called classics for a reason – you can never go wrong with them. See all the must-sees, try all the must-trys and, most importantly, just enjoy."
+
+[kruznaTuraOpis]
+other = "Day by day, city by city, you get to explore colorful Dalmatia. Great weather, food and people will really round up your trip to a full circle."
+
+[foodTuraOpis]
+other = "Travelling and exploring mixed with authentic food and local wine? Yes and yes. Get your minds and tummies full with this tour."
+
+[walkingOpisTure]
+other = "Great weather and great sights are the best combination for touring the coast and mountaions. Get around with your own two feet and see all with your own two eyes."
+
+[hikingOpisTure]
+other = "Greatest views are the ones from great hights, but getting up the mountains is no easy task. A lot of steps and many sights to see along the way to the top."
+
+[meduOpisTure]
+other = "Between the mountains and the karst land – a small town with a big soul. A place for many pilgrims or just people searching for a bit of peace."
+
+[cvitBlog] other = "Cvit travel blog"
+
+[scrollDown] other = "Scroll down"
+
+[latestPost] other = "Latest posts"
+
+[categories] other = "Categories"
+
+[CTAbutton] other = "Download tour PDF"

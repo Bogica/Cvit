@@ -1,0 +1,50 @@
+<div class="container mt-4">
+  <div class="row">
+      <div class="col-md-12 tour-wrap mb-5">
+              <div class="row">
+                  <div class="col-md-6 d-flex ftco-animate">
+                      <div class="img align-self-stretch" style="background-image: url({{.Params.imgNaslovna}});"></div>
+                  </div>
+                  <div class="col-md-6 ftco-animate">
+                      <div class="text py-5">
+                          <h3><a href="#">{{ .Params.title }}</a></h3>
+                          <p>{{ .Params.opisTure }}</p>
+                          <p><a href="/docs/Cvit-travel.pdf" class="btn btn-primary py-3 px-4">{{ i18n "selectTour"}}</a> <a href="mailto:petra0017@hotmail.com" class="btn btn-white py-3 px-4">{{ i18n "book"}}</a></p>                      </div>
+                  </div>
+              </div>
+          </div>
+          <div class="col-md-12 tour-wrap">
+              <div class="day-wrap">
+                  <h3 class="pl-5">{{ .Params.dan1 }}<span>{{ .Params.mjesto1 }}</span></h3>
+                  <p>{{ .Params.OpisDan1 }}</p>
+              </div>
+          </div>
+          <div class="col-md-12 tour-wrap">
+              <div class="day-wrap">
+                  <h3 class="pl-5">{{ .Params.dan2 }}<span>{{ .Params.mjesto2 }}</span></h3>
+                  <p>{{ .Params.OpisDan2 }}</p>
+              </div>
+          </div>
+          <div class="col-md-12 tour-wrap">
+              <div class="day-wrap">
+                  <h3 class="pl-5">{{ .Params.dan3 }}<span>{{ .Params.mjesto3 }}</span></h3>
+                  <p>{{ .Params.OpisDan3 }}</p>
+              </div>
+          </div>
+          <div class="col-md-12 tour-wrap">
+              <div class="day-wrap">
+                  <h3 class="pl-5">{{ .Params.dan4 }}<span>{{ .Params.mjesto4 }}</span></h3>
+                  <p>{{ .Params.OpisDan4 }}</p>
+              </div>
+          </div>
+          <div class="col-md-12 tour-wrap">
+              <div class="day-wrap">
+                  <h3 class="pl-5">{{ .Params.dan5 }}<span>{{ .Params.mjesto5 }}</span></h3>
+                  <p>{{ .Params.OpisDan5 }}</p>
+              </div>
+          </div>
+          <div class="col-md-12 tour-wrap">
+              <p><a href="mailto:petra0017@hotmail.com" class="btn btn-primary py-3 px-4">Book this tour</a> <a href="#" class="btn btn-secondary py-3 px-4">Share this tour</a></p>
+          </div>
+             </div>
+</div>

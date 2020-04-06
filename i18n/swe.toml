@@ -1,0 +1,320 @@
+[discover]
+other = "Upptäck Kroatien"
+
+[homeMainTitle1]
+other = "Dina resedestinationer upplevda som aldrig förut"
+
+[homeSubTitle1]
+other = "Utforska fantastiska delar av vårt land, upplev en annan kultur och ett livs äventyr tillsammans med en grupp av nya vänner!"
+
+[homeMainTitle2]
+other = "Dagar du aldrig kommer att glömma"
+
+[homeSubTitle2]
+other = "Funderat på att besöka Kroatien? Toppen! Låt oss ta hand er och planera er ackommodering, frukost och turer."
+
+[sub1]
+other = "Snabba & Pålitliga"
+
+[titleServices]
+other = "Våra Tjänster"
+
+[subtitleServices]
+other = "Vi erbjuder genomtänkta och fantastiska turer från första till sista dagen av din vistelse. Så luta dig tillbaka och njut av dina semesterdagar."
+
+[activity]
+other="Aktiviteter"
+
+[activities]
+other = "Vi brinner för att utforska olika delar av Kroatien, följ med och upplev en ny kultur och skapa minnen för livet. Oavsett om du reser ensam eller i sällskap kommer det garanterat bli ett kul äventyr."
+
+[travelArrangement]
+other = "Researrangemang"
+
+[arrangement]
+other = "Vi arrangerar allt för din resa för att den ska bli härlig och problemfri! Du behöver bara kontakta oss och berätta vilken tur som du vill delta i och vi kommer att skicka all information som du behöver veta."
+
+[privateGuide]
+other="Privata guider"
+
+[guide]
+other="Our guides are experienced in hosting group tours throughout the country that reflect the history, culture, beauty and taste of Croatia for you to enjoy and experience."
+
+[locationManager]
+other="Destinationer"
+
+[manager]
+other="Eftersom vi är en del av lokalbefolkningen så vet vi om alla de bästa platserna som söks även efter huvudattraktionerna. Ni kommer ha möjligheten att besöka de vackraste landskapen, fristäderna, restaurangerna och andra smultronställen längs den Adriatiska kusten."
+
+[getintouch]
+other="Kontakta oss"
+
+[aboutTitle]
+other="Cvit reseagentur"
+
+[aboutus]
+other ="We are specialized in hosting group tours throughout the Croatia and it's region."
+
+[selectTour]
+other="Alla turer"
+
+[book]
+other="Boka"
+
+[bestDestinationsSub]
+other="De bästa destinationerna"
+
+[bestDestinationsTitle]
+other="De bästa resmålen"
+
+[meetTheTeamSub]
+other="Möt teamet"
+
+[meetTheTeamTitle]
+other="Vilka är vi"
+
+
+[homeTitle]
+other = "Obiđi svit, uberi cvit"
+
+[homeSubtitle]
+other = "Otkrij ljepote Hrvatske"
+
+[readMore]
+other = "Ta reda på mer"
+
+[about]
+other = "Handla om"
+
+[tours]
+other = "Tur"
+
+[blog]
+other = "Blog"
+
+[home]
+other = "Hem"
+
+[contact]
+other = "Kontakta"
+
+[services]
+other = "Tjänster"
+
+
+[kruznaTura]
+other = "Rundtur"
+
+[klasicnaTura]
+other = "Den klassiska Kroatien tur"
+
+[planinarenjeTura]
+other = "Härlig vandring i Dalmatien"
+
+[pjesacenjeTura]
+other = "Vandring i Dalmatien"
+
+[hodocasceTura]
+other = "Međugorje Pilgrimage"
+
+[jeloTura]
+other = "Lär känna Kroatien genom mat och vin"
+    
+[petra]
+other = "Petra Lozančić"
+
+[andela]
+other = "Anđela Nosić"
+
+[silvana]
+other = "Silvana Nosić"
+
+[ante]
+other = "Ante Nosić"
+
+[agneta]
+other = "Agneta Buren - Lučić"
+
+[ulogaPetra]
+other = "Grundare och VD"
+
+[ulogaAnte]
+other = "Medgrundare och ekonomichef"
+
+[ulogaAgneta]
+other = "Reseansvarig"
+
+[ulogaAndela]
+other = "Marknads- / PR-chef"
+
+[ulogaSilvana]
+other = "Resekoordinator och rådgivare"
+
+[opisPetra]
+other = "Petra är upphovsmannen till allt i familjen oavsett om det är samlingar och resor eller byrån själv. När hon inte motiverar oss gör hon det med barnen på fotbollsakademin och tillbringar sin fritid med att resa eller tänka på framtida resor."
+
+
+
+[uzrPetra]
+other = "„Inte alla som vandrar går förlorade.” - J.R.R. Tolkien"
+
+[opisAnte]
+other =  "Liksom alla mellan barn har Ante alltid haft en äventyrlig ande. När han inte underhåller oss och får oss att skratta arbetar han som oljeingenjör och arbetsledare. På dagar då han är hemma tillbringar han faktiskt minst tid - i huset."
+
+
+[uzrAnte]
+other = "„Resor är aldrig en fråga om pengar utan en fråga om mod. ”- Paulo Coelho"
+
+[opisSilvana]
+other =  "Silvana är Kroat, född i Sverige hon har erfarenhet av att leda större och mindre grupper och reser i över tjugo år, men hon kommer alltid säga att det är svårast för henne att hantera sina tre barn. När hon inte arbetar och inte bryr sig om alla omkring sig hittar du hennes näsa i en bok eller försöker hålla sig vaken för att titta på serier efter en lång dag."
+
+
+[uzrSilvana]
+other = "„Res aldrig snabbare än din skyddsängel kan flyga. ”- Moder Teresa"
+
+[opisAndela]
+other = "Den yngsta och käraste medlemmen är Anja (med undantag av vår fyrbenta Tom). En apotekstudent som älskar växter och fotografering och en kombination av de två har hon utvecklat kärlek för att resa redan från ung ålder.  Hon reser med Sylvana var hon än accepterar att ta henne med sig."
+
+[uzrAndela]
+other = "„Lycka finns också i de mörkaste stunderna om vi kommer ihåg att tända ljuset. ”- J.K. Rowling"
+
+[opisAgneta]
+other = "Agneta är svensk till födsel men kroat i hjärtat. Han har arbetat inom turism i nästan femton år och organiserat och lett olika resor. På fritiden, när han inte inspirerar grupper av resenärer, gör han det med sina barnbarn."
+
+[uzrAgneta]
+other = "„Världen är en bok och de som inte reser läser bara en sida. ” Augustin" 
+
+[contactus]
+other = "Kontakta oss"
+
+[name]
+other = "Ditt namn"
+
+[email]
+other = "Din email"
+
+[message]
+other = "Meddelande"
+
+[send]
+other = "Skicka"
+
+[addresssub]
+other = "Adress"
+
+[address]
+other = "Koju adresu?"
+
+[contactnumber]
+other = "Telefonnummer"
+
+[emailaddressub]
+other = "Email"
+
+[emailaddress]
+other = "petra0017@hotmail.com"
+
+[website]
+other = "Hemsida"
+
+[information]
+other = "Information"
+
+[onlineenquiry]
+other = "Online Enquiry"
+
+[booking]
+other = "Bokningar"
+
+[privacy]
+other = "Integritet"
+
+[callus]
+other = "Kontakta oss"
+
+[experience]
+other = "Upplevelser"
+
+[haveaquestion]
+other = "Har du frågor?"
+
+[adventure]
+other = "Äventyr"
+
+[hotelandrestaurant]
+other = "Hotel och Restauranger"
+
+[beach]
+other = "Stränder"
+
+[nature]
+other = "Natur"
+
+
+[priprema]
+other = "Gör dig redo"
+
+[zaStoSeSpremiti]
+other = "Vad ska jag vara beredd på?"
+
+[howitworks]
+other = "Hur det fungerar"
+
+[vasaTura]
+other = "Tur"
+
+[korak1]
+other = "Steg 1"
+
+[korak2]
+other = "Steg 2"
+
+[korak3]
+other = "Steg 3"
+
+[rezerviraj]
+other = "BOKA DIN TUR"
+
+[procitaj]
+other = "LÄS ALLT OM DET"
+
+[opustiSe]
+other = "KOPPLA AV"
+
+[objasnjenje1]
+other = "Välj önskad turné, boka dina datum och meddela oss. Efter bokning skickar vi dig rätt destinationsadress."
+
+[objasnjenje2]
+other = "Du får ett bekräftelsemail. Ladda ner din pdf-guide och läs vad som väntar dig. Vårt team kommer att vara tillgängligt om du behöver något."
+
+[objasnjenje3]
+other = "Lägg undan din telefon och dela din dag med nära och kära. Njut av naturen. Du kommer att ha allt du behöver för en riktig semester."
+
+
+
+[klasicnaTuraOpis]
+other = "Man kan inte ta fel att hänga med på en klassisk resa. Att se, pröva, njuta, låra år det klassiska."
+
+[kruznaTuraOpis]
+other = "Dag efter dag, stad efter stad, upplev den färgstarka Dalmacija. Fint väder, mat och människor som ni träffar bidrar till denna resa."
+
+[foodTuraOpis]
+other = "Resa och upplevelse i combination med traditionellt mat och lokala viner? Ja och ja. Fyll dina tankar, njut till kropp och själ."
+
+
+[walkingOpisTure] other = "Fint väder och fin utsikt är bästa vandring kombination. Vandra, se, upplev…Dalmacija."
+
+[hikingOpisTure] other = "De bästa vyer är från de största höjderna. Det är inte alltid lått att ta sej upp. På vägen till toppen, behövs vilja och många små steg."
+
+[meduOpisTure]
+other = "Dold mellan bergen med sina små magra jord fält finnsen liten stad med stor själ varför männikora dras hit kommer pilgrimmare som söker frid, bön…"
+
+[cvitBlog] other = "Cvit reseblogg"
+
+[scrollDown] other = "Scrolla ner"
+
+[latestPost] other = "Senaste inläggen"
+
+[categories] other = "Kategorier"
+
+[CTAbutton] other = "Ladda ner turné PDF"

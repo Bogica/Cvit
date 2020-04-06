@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="en">
+    {{ partial "homepage/header" . }}
+
+<body data-spy="scroll" data-target=".site-navbar-target" data-offset="300">
+    
+   
+    {{ partial "homepage/top-nav.html" . }}
+    
+    {{ block "main" . }}
+    {{ end }}
+   
+    {{ partial "homepage/footer" . }}
+    {{ partial "homepage/js_scripts" . }}
+</body>
+</html>

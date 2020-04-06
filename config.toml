@@ -1,0 +1,19 @@
+baseURL = "http://example.org/"
+title = "My New Hugo Site"
+
+defaultContentLanguage = "hr"
+
+[languages.en]
+    weight = 0
+    languageName = "flagen"
+    LanguageCode = "en"
+
+[languages.hr]
+    weight = 10
+    languageName = "flagcro"
+    LanguageCode = "hr"
+
+[languages.swe]
+    weight = 20
+    languageName = "flagswe"
+    LanguageCode = "swe"
