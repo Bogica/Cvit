@@ -1,7 +1,7 @@
 baseURL = "http://example.org/"
-title = "My New Hugo Site"
-
+title = "Cvit travel agency"
 defaultContentLanguage = "hr"
+
 
 [languages.en]
     weight = 0
