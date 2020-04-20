@@ -3,17 +3,173 @@ title = "Cvit travel agency"
 defaultContentLanguage = "hr"
 
 
-[languages.en]
-    weight = 0
-    languageName = "flagen"
-    LanguageCode = "en"
-
+[languages]
+  
 [languages.hr]
-    weight = 10
     languageName = "flagcro"
     LanguageCode = "hr"
 
+[[languages.hr.menu.main]]
+    url    = "#home-section"
+    name   = "Naslovna"
+    weight = -120
+
+[[languages.hr.menu.main]]
+    url    = "#services-section"
+    name   = "Usluge"
+    weight = -119
+
+[[languages.hr.menu.main]]
+    url    = "#about-section"
+    name   = "O nama"
+    weight = -118
+
+[[languages.hr.menu.main]]
+    url    = "#destination-section"
+    name   = "Ture"
+    weight = -117
+
+[[languages.hr.menu.main]]
+    url    = "#contact-section"
+    name   = "Kontakt"
+    weight = -116
+
+[languages.en]
+    languageName = "flagen"
+    LanguageCode = "en"
+
+[[languages.en.menu.main]]
+    url    = "/en/#home-section"
+    name   = "Home"
+    weight = -120
+
+
+[[languages.en.menu.main]]
+    url    = "#services-section"
+    name   = "Services"
+    weight = -119
+
+[[languages.en.menu.main]]
+    url    = "#about-section"
+    name   = "About"
+    weight = -118
+
+[[languages.en.menu.main]]
+    url    = "#destination-section"
+    name   = "Tours"
+    weight = -117
+
+[[languages.en.menu.main]]
+    url    = "#contact-section"
+    name   = "Contact"
+    weight = -116
+
+
 [languages.swe]
-    weight = 20
     languageName = "flagswe"
     LanguageCode = "swe"
+
+
+[[languages.swe.menu.main]]
+    url    = "/swe/#home-section"
+    name   = "Hem"
+    weight = -120
+
+[[languages.swe.menu.main]]
+    url    = "#services-section"
+    name   = "Tjänster"
+    weight = -119
+
+[[languages.swe.menu.main]]
+    url    = "#about-section"
+    name   = "Handla om"
+    weight = -118
+
+[[languages.swe.menu.main]]
+    url    = "#destination-section"
+    name   = "Tur"
+    weight = -117
+
+[[languages.swe.menu.main]]
+    url    = "#contact-section"
+    name   = "Kontakta"
+    weight = -116
+
+
+
+
+[[languages.hr.menu.tours]]
+    url    = "/#home-section"
+    name   = "Naslovna"
+    weight = -120
+
+[[languages.hr.menu.tours]]
+    url    = "/#services-section"
+    name   = "Usluge"
+    weight = -119
+
+[[languages.hr.menu.tours]]
+    url    = "/#about-section"
+    name   = "O nama"
+    weight = -118
+
+[[languages.hr.menu.tours]]
+    url    = "/#destination-section"
+    name   = "Ture"
+    weight = -117
+
+[[languages.hr.menu.tours]]
+    url    = "/#contact-section"
+    name   = "Kontakt"
+    weight = -116
+
+[[languages.en.menu.tours]]
+    url    = "/en/#home-section"
+    name   = "Home"
+    weight = -120
+
+[[languages.en.menu.tours]]
+    url    = "/#services-section"
+    name   = "Services"
+    weight = -119
+
+[[languages.en.menu.tours]]
+    url    = "/#about-section"
+    name   = "About"
+    weight = -118
+
+[[languages.en.menu.tours]]
+    url    = "/#destination-section"
+    name   = "Tours"
+    weight = -117
+
+[[languages.en.menu.tours]]
+    url    = "/#contact-section"
+    name   = "Contact"
+    weight = -116
+
+
+[[languages.swe.menu.tours]]
+    url    = "/swe/#home-section"
+    name   = "Hem"
+    weight = -120
+
+[[languages.swe.menu.tours]]
+    url    = "/#services-section"
+    name   = "Tjänster"
+    weight = -119
+
+[[languages.swe.menu.tours]]
+    url    = "/#about-section"
+    name   = "Handla om"
+    weight = -118
+
+[[languages.swe.menu.tours]]
+    url    = "/#destination-section"
+    name   = "Tur"
+    weight = -117
+
+[[languages.swe.menu.tours]]
+    url    = "/#contact-section"
+    name   = "Kontakta"
+    weight = -116

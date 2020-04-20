@@ -10,12 +10,20 @@
       <div class="collapse navbar-collapse" id="ftco-nav">
         <ul class="navbar-nav nav ml-auto">
           {{- $currentPage := . -}}
-          <li class="nav-item"><a href="/#home-section" class="nav-link"><span>{{ i18n "home" }}</span></a></li>
-          <li class="nav-item"><a href="/#services-section" class="nav-link"><span>{{ i18n "services" }}</span></a></li>
-          <li class="nav-item"><a href="/#about-section" class="nav-link"><span>{{ i18n "about" }}</span></a></li>
-          <li class="nav-item"><a href="/#destination-section" class="nav-link"><span>{{ i18n "tours" }}</span></a></li>
-          <!-- <li class="nav-item"><a href="/#blog-section" class="nav-link"><span>{{ i18n "blog" }}</span></a></li> -->
-          <li class="nav-item"><a href="/#contact-section" class="nav-link"><span>{{ i18n "contact" }}</span></a></li>
+          {{ range .Site.Menus.main }}
+             <li class="nav-item">
+                    <a href="{{ .URL }}" class="nav-link">
+                    
+                        <span>{{ .Name }}</span>
+                    </a>
+                </li>
+          {{ end }}
+          <!-- <li class="nav-item"><a href="#home-section" class="nav-link"><span>{{ i18n "home" }}</span></a></li>
+          <li class="nav-item"><a href="#services-section" class="nav-link"><span>{{ i18n "services" }}</span></a></li>
+          <li class="nav-item"><a href="#about-section" class="nav-link"><span>{{ i18n "about" }}</span></a></li>
+          <li class="nav-item"><a href="#destination-section" class="nav-link"><span>{{ i18n "tours" }}</span></a></li>
+         <li class="nav-item"><a href="/#blog-section" class="nav-link"><span>{{ i18n "blog" }}</span></a></li> 
+          <li class="nav-item"><a href="#contact-section" class="nav-link"><span>{{ i18n "contact" }}</span></a></li> -->
           {{ range $.Site.Home.AllTranslations }}
           <li class="no_margin flag"><a href="{{ .Permalink }}"><img src="/images/flags/{{.Language.LanguageName}}.png" /></a></li>
           {{ end }}

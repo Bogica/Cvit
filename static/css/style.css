@@ -9326,4 +9326,16 @@ textarea.form-control {
   color: #95AFBF;
   padding-bottom: 10px; }
 
+/*-------------------------------------
+		1. 	CTA TOURS
+--------------------------------------*/
+.example_d {
+  color: white !important;
+  background: #e2c0bb;
+  padding: 5px;
+  border: 1px solid #e2c0bb !important;
+  border-radius: 6px;
+  display: inline-block;
+  transition: all 0.3s ease 0s; }
+
 /*# sourceMappingURL=style.css.map */
