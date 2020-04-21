@@ -9319,9 +9319,6 @@ textarea.form-control {
   -ms-touch-action: auto;
   touch-action: auto; }
 
-.enablescroll {
-  overflow: scroll; }
-
 .step {
   color: #95AFBF;
   padding-bottom: 10px; }
@@ -9334,7 +9331,7 @@ textarea.form-control {
   background: #e2c0bb;
   padding: 5px;
   border: 1px solid #e2c0bb !important;
-  border-radius: 6px;
+  border-radius: 4px;
   display: inline-block;
   transition: all 0.3s ease 0s; }
 
