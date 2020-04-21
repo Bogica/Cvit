@@ -4,8 +4,8 @@ pageTitle: "Pješačenje u Dalmaciji"
 id: 5
 url: "/tours/walking/"
 
-imgNaslovna: "/assets/img/travels/destination_3.png"
-hero: "/assets/img/travels/hero_tours.png"
+imgNaslovna: "/assets/img/travels/destination_3.jpg"
+hero: "/assets/img/travels/hero_tours.jpg"
 
 opisTure: "Prekrasno vrijeme i prekrasni pogledi su najbolja kombinacija za turu po obali i planinama. Istražuj sa svoje dvije noge i gledaj sa svoja dva oka."
 

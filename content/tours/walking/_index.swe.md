@@ -5,8 +5,8 @@ id: 5
 url: "/swe/tours/walking/"
 
 
-imgNaslovna: "/assets/img/travels/destination_3.png"
-hero: "/assets/img/travels/hero_tours.png"
+imgNaslovna: "/assets/img/travels/destination_3.jpg"
+hero: "/assets/img/travels/hero_tours.jpg"
 
 opisTure: "Fint väder och fin utsikt är bästa vandring kombination. Vandra, se, upplev…Dalmacija."
 

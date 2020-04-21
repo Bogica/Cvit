@@ -4,8 +4,8 @@ pageTitle: "Hodočašće u Međugorje"
 id: 6
 url: "/tours/medu/"
 
-imgNaslovna: "/assets/img/travels/destination_5.png"
-hero: "/assets/img/travels/hero_tours.png"
+imgNaslovna: "/assets/img/travels/destination_5.jpg"
+hero: "/assets/img/travels/hero_tours.jpg"
 
 opisTure: "Između planina i krške zemlje – mali grad s velikom dušom. Mjesto za mnoge hodočasnike ili za ljude koji samo traže mir."
 

@@ -5,8 +5,8 @@ id: 2
 date: 2019-10-17T17:50:47+02:00
 url: "/en/tours/classic/"
 
-imgNaslovna: "/assets/img/travels/destination_1.png"
-hero: "/assets/img/travels/hero_tours.png"
+imgNaslovna: "/assets/img/travels/destination_1.jpg"
+hero: "/assets/img/travels/hero_tours.jpg"
 
 
 opisTure: "Things are called classics for a reason – you can never go wrong with them. See all the must-sees, try all the must-trys and, most importantly, just enjoy."

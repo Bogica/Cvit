@@ -4,8 +4,8 @@ pageTitle: "Croatia vining and dining"
 id: 3
 url: "/en/tours/food/"
 
-imgNaslovna: "/assets/img/travels/destination_2.png"
-hero: "/assets/img/travels/hero_tours.png"
+imgNaslovna: "/assets/img/travels/destination_2.jpg"
+hero: "/assets/img/travels/hero_tours.jpg"
 
 opisTure: "Travelling and exploring mixed with authentic food and local wine? Yes and yes. Get your minds and tummies full with this tour."
 

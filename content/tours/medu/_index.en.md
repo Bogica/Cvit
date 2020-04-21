@@ -4,8 +4,8 @@ pageTitle: "Međugorje Pilgrimage"
 id: 6
 url: "/en/tours/medu/"
 
-imgNaslovna: "/assets/img/travels/destination_5.png"
-hero: "/assets/img/travels/hero_tours.png"
+imgNaslovna: "/assets/img/travels/destination_5.jpg"
+hero: "/assets/img/travels/hero_tours.jpg"
 
 opisTure: "Between the mountains and the karst land – a small town with a big soul. A place for many pilgrims or just people searching for a bit of peace."
 

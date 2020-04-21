@@ -5,8 +5,8 @@ id: 6
 date: 2019-10-17T17:50:47+02:00
 url: "/swe/tours/circle/"
 
-imgNaslovna: "/assets/img/travels/destination_6.png"
-hero: "/assets/img/travels/hero_tours.png"
+imgNaslovna: "/assets/img/travels/destination_6.jpg"
+hero: "/assets/img/travels/hero_tours.jpg"
 
 opisTure: "Dag efter dag, stad efter stad, upplev den färgstarka Dalmacija. Fint väder, mat och människor som ni träffar bidrar till denna resa."
 

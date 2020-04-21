@@ -4,8 +4,8 @@ pageTitle: "Hrana i vino"
 id: 3
 url: "/tours/food/"
 
-imgNaslovna: "/assets/img/travels/destination_2.png"
-hero: "/assets/img/travels/hero_tours.png"
+imgNaslovna: "/assets/img/travels/destination_2.jpg"
+hero: "/assets/img/travels/hero_tours.jpg"
 
 opisTure: "Putovanje i istraživanje spojeno s autentičnim jelima i lokalnim vinom? Da i da. Napunite svoj um i trbuh s ovom turom."
 

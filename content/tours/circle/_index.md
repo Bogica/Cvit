@@ -5,8 +5,8 @@ id: 6
 date: 2019-10-17T17:50:47+02:00
 url: "/tours/circle/"
 
-imgNaslovna: "/assets/img/travels/destination_6.png"
-hero: "/assets/img/travels/hero_tours.png"
+imgNaslovna: "/assets/img/travels/destination_6.jpg"
+hero: "/assets/img/travels/hero_tours.jpg"
 
 opisTure: "Dan po dan, grad po grad, imate priliku istražiti šarenu Dalmaciju. Sjajno vrijeme, hrana i ljudi će zbilja zaokružiti Vaše putovanje."
 

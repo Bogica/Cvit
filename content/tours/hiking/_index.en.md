@@ -4,8 +4,8 @@ pageTitle: "Climbing trough Dalmatia"
 id: 4
 url: "/en/tours/hiking/"
 
-imgNaslovna: "/assets/img/travels/destination_4.png"
-hero: "/assets/img/travels/hero_tours.png"
+imgNaslovna: "/assets/img/travels/destination_4.jpg"
+hero: "/assets/img/travels/hero_tours.jpg"
 
 opisTure: "Greatest views are the ones from great hights, but getting up the mountains is no easy task. A lot of steps and many sights to see along the way to the top."
 

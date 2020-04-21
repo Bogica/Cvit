@@ -4,8 +4,8 @@ pageTitle: "Härlig vandring i Dalmatien"
 id: 4
 url: "/swe/tours/hiking/"
 
-imgNaslovna: "/assets/img/travels/destination_4.png"
-hero: "/assets/img/travels/hero_tours.png"
+imgNaslovna: "/assets/img/travels/destination_4.jpg"
+hero: "/assets/img/travels/hero_tours.jpg"
 
 opisTure: "De bästa vyer är från de största höjderna. Det är inte alltid lått att ta sej upp. På vägen till toppen, behövs vilja och många små steg."
 

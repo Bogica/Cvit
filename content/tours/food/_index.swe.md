@@ -5,8 +5,8 @@ id: 3
 date: 2019-10-17T17:50:47+02:00
 url: "/swe/tours/food/"
 
-imgNaslovna: "/assets/img/travels/destination_2.png"
-hero: "/assets/img/travels/hero_tours.png"
+imgNaslovna: "/assets/img/travels/destination_2.jpg"
+hero: "/assets/img/travels/hero_tours.jpg"
 
 opisTure: "Resa och upplevelse i combination med traditionellt mat och lokala viner? Ja och ja. Fyll dina tankar, njut till kropp och själ."
 

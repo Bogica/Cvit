@@ -4,8 +4,8 @@ pageTitle: "Walking trough Dalmatia"
 id: 5
 url: "/en/tours/walking/"
 
-imgNaslovna: "/assets/img/travels/destination_3.png"
-hero: "/assets/img/travels/hero_tours.png"
+imgNaslovna: "/assets/img/travels/destination_3.jpg"
+hero: "/assets/img/travels/hero_tours.jpg"
 
 opisTure: "Great weather and great sights are the best combination for touring the coast and mountaions. Get around with your own two feet and see all with your own two eyes."
 

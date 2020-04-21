@@ -5,8 +5,8 @@ id: 2
 date: 2019-10-17T17:50:47+02:00
 url: "/swe/tours/classic/"
 
-imgNaslovna: "/assets/img/travels/destination_1.png"
-hero: "/assets/img/travels/hero_tours.png"
+imgNaslovna: "/assets/img/travels/destination_1.jpg"
+hero: "/assets/img/travels/hero_tours.jpg"
 
 opisTure: "Man kan inte ta fel att hänga med på en klassisk resa. Att se, pröva, njuta, låra år det klassiska."
 

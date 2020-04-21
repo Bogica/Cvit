@@ -4,8 +4,8 @@ pageTitle: "Međugorje Pilgrimage"
 id: 6
 url: "/swe/tours/medu/"
 
-imgNaslovna: "/assets/img/travels/destination_5.png"
-hero: "/assets/img/travels/hero_tours.png"
+imgNaslovna: "/assets/img/travels/destination_5.jpg"
+hero: "/assets/img/travels/hero_tours.jpg"
 
 opisTure: "Dold mellan bergen med sina små magra jord fält finnsen liten stad med stor själ varför männikora dras hit kommer pilgrimmare som söker frid, bön…"
 

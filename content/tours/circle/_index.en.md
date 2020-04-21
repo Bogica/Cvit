@@ -5,8 +5,8 @@ id: 6
 date: 2019-10-17T17:50:47+02:00
 url: "/en/tours/circle/"
 
-imgNaslovna: "/assets/img/travels/destination_6.png"
-hero: "/assets/img/travels/hero_tours.png"
+imgNaslovna: "/assets/img/travels/destination_6.jpg"
+hero: "/assets/img/travels/hero_tours.jpg"
 
 
 opisTure: "Day by day, city by city, you get to explore colorful Dalmatia. Great weather, food and people will really round up your trip to a full circle."

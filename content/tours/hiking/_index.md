@@ -4,8 +4,8 @@ pageTitle: "Planinarenje u Dalmaciji"
 id: 4
 url: "/tours/hiking/"
 
-imgNaslovna: "/assets/img/travels/destination_4.png"
-hero: "/assets/img/travels/hero_tours.png"
+imgNaslovna: "/assets/img/travels/destination_4.jpg"
+hero: "/assets/img/travels/hero_tours.jpg"
 
 opisTure: "Najbolji pogledi su oni s najvećih visina, ali penjanje na te visine nije lak zadatak. Puno koraka i lijepih pogleda uz put do vrha."
 
