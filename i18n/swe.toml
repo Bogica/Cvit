@@ -56,7 +56,7 @@ other="Cvit reseagentur"
 other ="We are specialized in hosting group tours throughout the Croatia and it's region."
 
 [aboutusdescription]
-other ="Vi är ett ungt och familjeägt företag. Tillsammans med oss jobbar lokala guider och researrangörer med lång erfarenhet men också unga människor som har vision och ideer. Cvit Travel grundades med önska att alla våra resenärer lär känna äkta Kroatien på det rätta sättet. Därför arrangera vi resor med smak som minne för livet."
+other ="Vi är ett ungt och familjeägt företag. Tillsammans med oss jobbar lokala guider och researrangörer med lång erfarenhet men också unga människor som har vision och ideer. Cvit Travel grundades med önska att alla våra resenärer lär känna det äkta Kroatien på  rätt sätt. Därför  arrangera vi resor med smak som minne för livet."
 
 [selectTour]
 other="Alla turer"
@@ -298,19 +298,36 @@ other = "Lägg undan din telefon och dela din dag med nära och kära. Njut av n
 [klasicnaTuraOpis]
 other = "Man kan inte ta fel att hänga med på en klassisk resa. Att se, pröva, njuta, låra år det klassiska."
 
+[klasicnaTuraTrajanje]
+other = "5 dagar"
+
 [kruznaTuraOpis]
 other = "Dag efter dag, stad efter stad, upplev den färgstarka Dalmacija. Fint väder, mat och människor som ni träffar bidrar till denna resa."
+
+[kruznaTuraTrajanje]
+other = "5 dagar"
 
 [foodTuraOpis]
 other = "Resa och upplevelse i combination med traditionellt mat och lokala viner? Ja och ja. Fyll dina tankar, njut till kropp och själ."
 
+[foodTuraTrajanje]
+other = "5 dagar"
 
 [walkingOpisTure] other = "Fint väder och fin utsikt är bästa vandring kombination. Vandra, se, upplev…Dalmacija."
 
+[walkingTuraTrajanje]
+other = "5 dagar"
+
 [hikingOpisTure] other = "De bästa vyer är från de största höjderna. Det är inte alltid lått att ta sej upp. På vägen till toppen, behövs vilja och många små steg."
+
+[hikingTuraTrajanje]
+other = "5 dagar"
 
 [meduOpisTure]
 other = "Dold mellan bergen med sina små magra jord fält finnsen liten stad med stor själ varför männikora dras hit kommer pilgrimmare som söker frid, bön…"
+
+[meduTuraTrajanje]
+other = "5 dagar"
 
 [cvitBlog] other = "Cvit reseblogg"
 

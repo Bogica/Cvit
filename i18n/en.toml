@@ -296,20 +296,38 @@ other = "Put away your phone and share your day with loved ones. Enjoy nature. Y
 [klasicnaTuraOpis]
 other = "Things are called classics for a reason – you can never go wrong with them. See all the must-sees, try all the must-trys and, most importantly, just enjoy."
 
+[klasicnaTuraTrajanje]
+other = "5 days"
+
 [kruznaTuraOpis]
 other = "Day by day, city by city, you get to explore colorful Dalmatia. Great weather, food and people will really round up your trip to a full circle."
+
+[kruznaTuraTrajanje]
+other = "5 days"
 
 [foodTuraOpis]
 other = "Travelling and exploring mixed with authentic food and local wine? Yes and yes. Get your minds and tummies full with this tour."
 
+[foodTuraTrajanje]
+other = "5 days"
+
 [walkingOpisTure]
 other = "Great weather and great sights are the best combination for touring the coast and mountaions. Get around with your own two feet and see all with your own two eyes."
+
+[walkingTuraTrajanje]
+other = "5 days"
 
 [hikingOpisTure]
 other = "Greatest views are the ones from great hights, but getting up the mountains is no easy task. A lot of steps and many sights to see along the way to the top."
 
+[hikingTuraTrajanje]
+other = "5 days"
+
 [meduOpisTure]
 other = "Between the mountains and the karst land – a small town with a big soul. A place for many pilgrims or just people searching for a bit of peace."
+
+[meduTuraTrajanje]
+other = "5 days"
 
 [cvitBlog] other = "Cvit travel blog"
 

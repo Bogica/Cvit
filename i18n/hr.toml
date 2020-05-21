@@ -26,13 +26,13 @@ other = "Nudimo fantastične ture isplanirane od prvog do zadnjeg dana samo za v
 other="Aktivnosti"
 
 [activities]
-other = "Istražite sa nama nevjerojatne djelove Hrvatske, doživite novu kulturu i stvorite životne uspomene. Bilo da putujete sami ili sa drugima, zajamčena vam je zabava i avantura."
+other = "Istražite sa nama nevjerojatne dijelove Hrvatske, doživite novu kulturu i stvorite životne uspomene. Bilo da putujete sami ili sa drugima, zajamčena vam je zabava i avantura."
 
 [travelArrangement]
 other = "Aranžman putovanja"
 
 [arrangement]
-other = "Organiziramo sve za vas kako bi vaše putovanje bilo zabavno i bez problema! Kontaktirajte nas i napišite u kojoj turi bi željeli sudjelovati i mi ćemo vam poslati sve detalje koje trebate znati!"
+other = "Organiziramo sve za vas kako bi vaše putovanje bilo zabavno i bez problema! Kontaktirajte nas i napišite u kojoj turi biste željeli sudjelovati i mi ćemo Vam poslati sve detalje koje trebate znati!"
 
 [privateGuide]
 other="Privatni vodič"
@@ -44,7 +44,7 @@ other="Naši vodiči su iskusni u vođenju grupnih tura koje odražavaju povijes
 other="Destinacije"
 
 [manager]
-other="Kao mještani i insajderi poznajemo najbolja mjesta, najtraženije atrakcije. Imati ćete priliku razgledati najljepša brda, svetišta, restorane i dijelove Jadranske obale."
+other="Kao mještani i insajderi poznajemo najbolja mjesta, najtraženije atrakcije. Imat ćete priliku razgledati najljepša brda, svetišta, restorane i dijelove Jadranske obale."
 
 [getintouch]
 other="Kontaktirajte nas"
@@ -154,7 +154,7 @@ other = "Marketing/PR menadžer"
 other = "Menadžer putovanja"
 
 [opisPetra]
-other = "Petra je pokretač svega u obitelji kako svih okupljanja i izleta tako i same agencije. Kada ne pokreće nas to radi sa djecom u nogometnoj akademiji a svoje slobodno vrijeme provodi putujući ili smišljajući buduća putovanja."
+other = "Petra je pokretač svega u obitelji kako svih okupljanja i izleta tako i same agencije. Kada ne pokreće nas to radi sa djecom u nogometnoj akademiji, a svoje slobodno vrijeme provodi putujući ili smišljajući buduća putovanja."
 
 
 
@@ -169,14 +169,14 @@ other =  "Kao i svako srednje dijete Ante je uvijek bio avanturističkog duha. K
 other = "„Putovanje nikada nije stvar novca već stvar hrabrosti.“ – Paulo Coelho"
 
 [opisSilvana]
-other =  "Silvana je Hrvatica rođena u Švedskoj te ima iskustva vodeći velike i male grupe i putovanja već dvadeset godina ali će uvijek reći da joj je najteže ipak voditi svoje troje djece. Kada ne radi i ne brine za sve oko sebe obično ćete je naći nosom u knjizi ili kako pokušava ostati budna gledajući seriju nakon dugog dana."
+other =  "Silvana je Hrvatica rođena u Švedskoj te ima iskustva vodeći velike i male grupe i putovanja već dvadeset godina, ali će uvijek reći da joj je najteže ipak voditi svoje troje djece. Kada ne radi i ne brine za sve oko sebe obično ćete je naći nosom u knjizi ili kako pokušava ostati budna gledajući seriju nakon dugog dana."
 
 
 [uzrSilvana]
 other = "„Nikad ne putuj brže nego što tvoj anđeo čuvar može letjeti.“ – Majka Tereza"
 
 [opisAndela]
-other = "Najmlađi i svima najdraži član je Anđa (osim četveronožnog Toma). Studentica farmacije koja voli biljke i fotografiju i kombinaciju tih dviju stvari zavolila je putovanja odmalena putujući sa Silvanom gjde god bi je ona pristala povesti sa sobom."
+other = "Najmlađi i svima najdraži član je Anđa (osim četveronožnog Toma). Studentica farmacije koja voli biljke i fotografiju i kombinaciju tih dviju stvari zavolila je putovanja odmalena putujući sa Silvanom gdje god bi je ona pristala povesti sa sobom."
 
 [uzrAndela]
 other = "„Sreća se može pronaći i u najtamnijim trenucima ako se sjetimo upaliti svjetlo.“ – J.K. Rowling"
@@ -285,10 +285,10 @@ other = "Pročitajte informacije"
 other = "Opustite se"
 
 [objasnjenje1]
-other = "Izaberite željenu turu rezervirajte datume i obavjestite nas. Nakon bukiranje poslat ćemo Vam točnu adresu odredišta."
+other = "Izaberite željenu turu rezervirajte datume i obavijestite nas. Nakon bukiranje poslat ćemo Vam točnu adresu odredišta."
 
 [objasnjenje2]
-other = "Dobit ćete potvrdnu e-poštu. Preuzmite svoj pdf vodič i pročitajte što vas sve čeka. Naš će tim biti dostupan ukoliko trebate bilo što."
+other = "Dobit ćete potvrdnu e-poštu. Preuzmite svoj pdf vodič i pročitajte što Vas sve čeka. Naš će tim biti dostupan ukoliko trebate bilo što."
 
 [objasnjenje3]
 other = "Odložite telefon i podijelite svoj dan s voljenim osobama. Uživajte u prirodi. Imat ćete sve što je potrebno za istinski odmor."
@@ -297,20 +297,38 @@ other = "Odložite telefon i podijelite svoj dan s voljenim osobama. Uživajte u
 [klasicnaTuraOpis]
 other = "Stvari se nazivaju klasici s razlogom: s njima ne možeš pogriješiti. Vidi sve što moraš vidjeti, probaj sve što moraš probati i što je najvažnije, samo uživaj."
 
+[klasicnaTuraTrajanje]
+other = "5 dana"
+
 [kruznaTuraOpis]
 other = "Dan po dan, grad po grad, imate priliku istražiti šarenu Dalmaciju. Sjajno vrijeme, hrana i ljudi će zbilja zaokružiti Vaše putovanje."
+
+[kruznaTuraTrajanje]
+other = "5 dana"
 
 [foodTuraOpis]
 other = "Putovanje i istraživanje spojeno s autentičnim jelima i lokalnim vinom? Da i da. Napunite svoj um i trbuh s ovom turom."
 
+[foodTuraTrajanje]
+other = "5 dana"
+
 [hikingOpisTure]
 other = "Najbolji pogledi su oni s najvećih visina, ali penjanje na te visine nije lak zadatak. Puno koraka i lijepih pogleda uz put do vrha."
+
+[hikingTuraTrajanje]
+other = "5 dana"
 
 [walkingOpisTure]
 other = "Prekrasno vrijeme i prekrasni pogledi su najbolja kombinacija za turu po obali i planinama. Istražuj sa svoje dvije noge i gledaj sa svoja dva oka."
 
+[walkingTuraTrajanje]
+other = "5 dana"
+
 [meduOpisTure]
 other = "Između planina i krške zemlje – mali grad s velikom dušom. Mjesto za mnoge hodočasnike ili za ljude koji samo traže mir."
+
+[meduTuraTrajanje]
+other = "5 dana"
 
 [cvitBlog] other = "Cvit travel blog"
 
