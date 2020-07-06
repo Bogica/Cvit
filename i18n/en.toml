@@ -70,6 +70,9 @@ other="Best destinations"
 [bestDestinationsTitle]
 other="Best Place to Travel"
 
+[bestDestinationsSubTitle]
+other="We help you choose your next holiday destination thanks to our detailed tour guides that will help you make the best of your journey"
+
 [meetTheTeamSub]
 other="Meet the team"
 
@@ -206,7 +209,7 @@ other = "Send"
 other = "Address"
 
 [address]
-other = "Koju adresu?"
+other = "Split"
 
 [contactnumber]
 other = "Contact Number"

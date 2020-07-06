@@ -206,7 +206,7 @@ other = "Skicka"
 other = "Adress"
 
 [address]
-other = "Koju adresu?"
+other = "Split"
 
 [contactnumber]
 other = "Telefonnummer"
