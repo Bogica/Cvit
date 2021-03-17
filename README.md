@@ -61,7 +61,7 @@ You can use ES6 and use both relative imports or import libraries from npm.
 
 Any CSS file directly under the `src/style/` folder will get compiled with to `/public/{filename}.css`. Import statements will be resolved as part of the build.
 
-**Deployment**
+# **Deployment**
 
 Run
 
