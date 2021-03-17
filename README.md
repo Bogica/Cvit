@@ -73,12 +73,12 @@ to get minifed version of website, ready for deploy.
 
 Push your clone to your own GitHub repository.
 
-Create a new site on Netlify and link the repository.
+[Create a new site on Netlify](https://app.netlify.com/start) and link the repository.
 
 Now Netlify will build and deploy your site whenever you push to git.
 
 You can also use netlify-cli for deploying /public folder.
 
-This project is released under the MIT license. Please make sure you understand its implications and guarantees.
+# **Cvit**
 
-Inspired by Viktor Hugo Boilerplate
+[Cvit site](https://www.cvit-travel.com/)
